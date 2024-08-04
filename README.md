@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI,ML & LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codeslayr](https://github.com/codeslayr)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/codeslayr)
 
 - 💬 Ask me about **Flutter, Dart**
 
