@@ -12,14 +12,14 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/codeslayr)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **ansariabdurrahman614@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cKCP8J-W7ktVFwunCXPYxs8xGpkcvNu5/view)
 
 - ⚡ **I am Weird**
-- [Personal Portfolio](https://abdurrahmanansari.netlify.app/)
+- **My Portfolio**[Portfolio](https://abdurrahmanansari.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
