@@ -19,7 +19,8 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cKCP8J-W7ktVFwunCXPYxs8xGpkcvNu5/view)
 
 - ⚡ **I am Weird**
- **My Portfolio** [Portfolio](https://abdurrahmanansari.netlify.app/)
+
+**My** [Portfolio](https://abdurrahmanansari.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
